@@ -1,4 +1,3 @@
-test/store_spec.js
 import {Map, fromJS} from 'immutable';
 import {expect} from 'chai';
 

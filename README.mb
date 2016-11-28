@@ -1,0 +1,5 @@
+* Запуск сервера
+npm run start
+
+* Запуск тестов
+npm run test
